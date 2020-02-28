@@ -22,7 +22,7 @@ Contestants = ["Mary Q",
 				"Francisco R",
 				"Meghana G",
 				"Shivram V",
-				"Shazaib S"]
+				"Shahzaib S"]
 NumContestants = len(Contestants)
 
 
