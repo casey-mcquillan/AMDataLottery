@@ -7,7 +7,7 @@ import imageio
 import matplotlib.pyplot as plt
 
 #Set Random Seed
-np.random.seed(12345)
+np.random.seed(438672590)
 
 
 #List of contestants in order of purchase
